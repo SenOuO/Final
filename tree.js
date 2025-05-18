@@ -2,7 +2,7 @@ const data = [
     {
         id: '0.0',
         parent: '',
-        name: '增肌訓練'
+        name: '肌群訓練'
     },
     {
         id: '1.1',
